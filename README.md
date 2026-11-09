@@ -142,6 +142,21 @@ Balasannya bentuknya kayak `{"prediction": ["..."]}`. Kalau ada fitur yang kuran
 
 API ini memakai model **klasifikasi**. Model regresi cuma buat evaluasi di notebook, belum dipasang di API.
 
+===========================================================================================================================
+
+**#jurnal pendukung argumen bahwa MAE, MSE, dan RMSE idealnya mendekati 0, sedangkan R² idealnya mendekati 1.**
+
+1. walhi,+2.+Desy+128-137(padi)
+halaman : 136. link : https://journal.unilak.ac.id/index.php/dz/article/download/16256/5652
+2. Predictive_fertilization_models_for_pota (potato)
+halaman : 5945. link : Predictive fertilization models for potato crops using machine learning techniques in Moroccan Gharb region (https://scholar.google.co.id/scholar?q=mae+mse+r2&hl=id&as_sdt=0%2C5&as_ylo=2022&as_yhi=2023)
+3. redaksijupiter,+Artikel+9066 (cabai rawit)
+halaman : 556. link : https://jurnal.polsri.ac.id/index.php/jupiter/article/download/9066/3272/28809
+4. 893-900+Sistem+Informasi+Prediksi+Penjualan+E-Commerce+Menggunakan+Analisis+Data+Historis+dan+Algoritma+MLR (e-commerce)
+halaman : 897. link : https://ejournal2.unud.ac.id/index.php/jnatia/article/download/1727/1020
+5. ramalia,+Journal+editor,+3902-publish-144-152 (beras)
+halaman : 148. link : https://www.ejournal.pelitaindonesia.ac.id/index.php/JOISIE/article/download/3902/1565
+
 ## Catatan dan kekurangan
 
 - Dataset sangat nggak seimbang, jadi kelas Negative paling susah ditebak.
